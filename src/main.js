@@ -1,9 +1,9 @@
-// import { Constructor } from './project.js';
-import $ from 'jquery';
-import 'bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import './styles.css';
-
-$(document).ready(function() {
-  
-});
+// import { Board } from "./sudoku.js"
+// import $ from 'jquery';
+// import 'bootstrap';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import './styles.css';
+//
+// $(function() {
+//
+// });
