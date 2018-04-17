@@ -62,3 +62,5 @@ export class Board {
     return true;
   }
 }
+
+exports.boardModule = Board;
